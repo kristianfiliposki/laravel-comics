@@ -3,7 +3,7 @@
 
 Route::get('/', function () {
     $dati=[
-        "movie"=>[
+            "movie"=>[
             "joker",
             "fliston",
             "sragonball",
